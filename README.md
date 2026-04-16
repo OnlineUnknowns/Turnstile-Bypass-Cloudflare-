@@ -156,10 +156,11 @@ Use this project entirely at your own risk. I hold no responsibility for any neg
 **Need to elevate your project?**
 Try **[CapSolver](https://www.capsolver.com/)**, an industry-leading RPA (Robotic Process Automation) service. From Cloudflare's anti-bot systems to hCaptcha, reCAPTCHA, and more, CapSolver delivers unmatched accuracy and speed to tackle even the toughest challenges. Trusted by developers worldwide for seamless automation.
 
-![CapSolver](images/CapSolver_banner.jpg)
+[CapSolver](images/CapSolver_banner.jpg)
 
 <div align="center">
-  <a href="https://www.g2.com/products/capsolver/reviews" target="_blank">
+  <a 
+    href="https://www.g2.com/products/capsolver/reviews" target="_blank">
     <img src="https://img.shields.io/badge/%E2%80%8B%E2%80%8B★★★★★-grey?style=plastic&logo=g2&color=97C412&labelColor=grey" alt="G2 Rating"/>
   </a>
   <a href="https://www.trustpilot.com/review/capsolver.com" target="_blank">
@@ -185,25 +186,9 @@ Try **[CapSolver](https://www.capsolver.com/)**, an industry-leading RPA (Roboti
 
 If you find my work useful and want to encourage further development, you can do so by donating
 
-### [OxaPay](https://oxapay.com/donate/42319117)
-
-### USDT (BEP20 - BSC)
-`0x88046e6d0f2bf8629cd7fbd754e4e275083fc993`
-
-### USDT (SOL - Solana)
-`BL3QX5GtfXp8qha8PMLVwyud7gxB1aPE4Vsqotwscxsv`
-
 ### USDT (TRC20 - Tron)
-`TMpXigKBghRQmgYD53KyuxS38FH516ermu`
+`TGHWvQij6MsRWTKr4ZkudL292PDZuCnaya`
 
-### BTC
-`1E9kw3FuaahfeproboNL7uvyBdjP9wY6CR`
-
-### BTC (BEP20)
-`0x88046e6d0f2bf8629cd7fbd754e4e275083fc993`
-
-### TON
-`UQCyCnWVYOmv97idVFZ4tIewToZacRhYVwfGNU658fN5w3Kl`
 
 ### Speed Lightning Address username
-`bytechanger@speed.app`
+`Onlineunknows`
