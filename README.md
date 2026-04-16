@@ -26,12 +26,6 @@ PD: This repository was initially created for personal use. I've adjusted it for
 
 ---
 
-![Server Console](images/server_console.png)
-
-![Browser](images/browser.png)
-
----
-
 ## Install
 
 ```bash
@@ -186,5 +180,5 @@ If you find my work useful and want to encourage further development, you can do
 
 
 ### Only Validation Whatsapp 
-wa.me/+201286016083
+'+201286016083'
 'Onlineunknows`
