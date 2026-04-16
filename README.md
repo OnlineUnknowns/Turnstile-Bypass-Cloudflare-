@@ -26,11 +26,6 @@ PD: This repository was initially created for personal use. I've adjusted it for
 
 ---
 
-## Screenshots
-
-TODO: Update
-![Help Menu](images/help_menu.png)
-
 ![Server Console](images/server_console.png)
 
 ![Browser](images/browser.png)
@@ -190,5 +185,6 @@ If you find my work useful and want to encourage further development, you can do
 `TGHWvQij6MsRWTKr4ZkudL292PDZuCnaya`
 
 
-### Speed Lightning Address username
-`Onlineunknows`
+### Only Validation Whatsapp 
+wa.me/+201286016083
+'Onlineunknows`
